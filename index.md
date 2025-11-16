@@ -1,11 +1,11 @@
 # Professional Experiences
-## Singapore Airlines | Airline Industry | 2024 - Now
+## Singapore Airlines | 2024 - Now
 TBU
-## Australia Post | Postal Services Industry | 2022 - 2023
+## Australia Post | 2022 - 2023
 TBU
-## Grab | Deliveries, Mobility, Digital Financial  Industry | 2021 - 2022
+## Grab | 2021 - 2022
 TBU
-## Cycle and Carriage | Automotive Retailer Industry | 2018 - 2020
-TBU
-# Technology Stack
+## Cycle and Carriage | 2018 - 2020
+Digitalize C&C sales cycle
+# Techs Stack
 TBU
