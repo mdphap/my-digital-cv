@@ -30,13 +30,28 @@
         </div>
     </header>
 
-    {% include sidebar.html %}
+    <div class="flex-container">
+        <div class="column left-column">
+            {% include sidebar.html %}
+        </div>
+        <div class="column right-column">
+            <div class="container">
+
+                <section id="main_content" style="text-align: justify;">
+                    {{ content }}
+                </section>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- {% include sidebar.html %}
     <div class="container">
         
         <section id="main_content" style="text-align: justify;">
             {{ content }}
         </section>
-    </div>
+    </div> -->
 </body>
 
 </html>

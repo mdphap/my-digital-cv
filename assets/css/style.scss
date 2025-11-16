@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-column {
+    flex: 1; /* Takes up 3 parts of the space (e.g., 75% if the other is flex: 1) */
+    // width: 75%; /* You can also use explicit widths */
+    // padding: 10px;
+    // box-sizing: border-box;
+    // background-color: #f0f0f0;
+}
+
+.right-column {
+    flex: 3; /* Takes up 1 part of the space (e.g., 25%) */
+    // width: 25%;
+    // padding: 10px;
+    // box-sizing: border-box;
+    // background-color: #d0d0d0;
+}
