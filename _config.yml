@@ -2,5 +2,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Salesforce / Developer / Phap Mai Dang]
-description: [A dedicated and technically proficient Senior Salesforce Developer and Consultant with over five years of experience in delivering robust solutions across Sales and Service Cloud. Skilled in leading small development teams, engaging directly with clients, and managing project delivery. Committed to expanding expertise across the Salesforce ecosystem, while advancing toward a Technical Architect role through continuous learning and practical application.]
+description: [A dedicated and technically proficient Senior Salesforce Developer and Consultant with over five years of experience in delivering robust solutions across Sales and Service Cloud. Skilled in leading small development teams. Engaging directly with clients and managing project delivery. Committed to expanding expertise across the Salesforce ecosystem while advancing toward a Technical Architect role through continuous learning and practical application.]
 show_downloads: false
