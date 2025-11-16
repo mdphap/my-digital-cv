@@ -8,9 +8,10 @@ Contributed to the enhancement of Australia Post’s Help Portal, built on Sales
 ## Singapore Airlines | 2024 - Now
 Contributed to multiple B2B enhancements aimed at improving efficiency and service quality. Integrated Adobe Sign into Group Booking workflows to streamline document processing and reduce turnaround time. Supported the migration from Salesforce Legacy Chat to Messaging for In-App and Web, enabling improved communication capabilities for the CCSD center. Developed AI-powered features to assist service agents, including email summarization, suggested email responses, chat transcript summaries, and automated case categorization, leveraging generative AI to enhance productivity and service consistency.
 # 🛠️ Techs Stack
-My techs stack is a T-shape with Salesforce as the main pillar and some other techs for my hobby and toy project.
-- Salesforce core products, configurations, low-code tools, pro-code programming language & framework.
-- NodeJS.
-- Excel VBA.
-- Heroku.
+My technical expertise is T-shaped, with Salesforce as the core focus supported by complementary technologies used in side projects and explorations:
+
+- Salesforce: Core Clouds (Sales, Service), configurations, declarative automation, Apex programming, Lightning Web Components, and Salesforce DevOps tools.
+- Node.js: Used for experimentation and personal projects.
+- Excel VBA: Automation and scripting for business process optimization.
+- Heroku: Deployment and hosting for lightweight apps and prototypes.
 
