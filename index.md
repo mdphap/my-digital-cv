@@ -14,7 +14,7 @@ Worked as part of a development team to onboard a new business unit onto Salesfo
 
 Tech Stack in Project:
 - Project Management: Jira.
-- Configurations: Sales Cloud, Platform Low-Code Tools, Approval Process.
+- Configurations: Sales Cloud, Service Cloud, Platform Low-Code Tools, Approval Process.
 - Back end: Apex.
 - Front end: Lightning Web Component.
 - Deployment: Flosum.
@@ -24,7 +24,7 @@ Contributed to the enhancement of Australia Post’s Help Portal, built on Sales
 
 Tech Stack in Project:
 - Project Management: Jira.
-- Configurations: Sales Cloud, Platform Low-Code Tools.
+- Configurations: Experience Cloud, Platform Low-Code Tools.
 - Back end: Apex.
 - Front end: Aura Component, Lightning Web Component.
 - Deployment: Flosum.
